@@ -1,0 +1,82 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tblLogin {
+	border: orange 2px solid;
+    background: white;
+    border-radius: 4px;
+    color:black;
+}
+.tableheader {
+    font-size: 18px;
+    color:black;
+}
+.mandatory{
+    color:red;   
+}
+.tableheader td {
+    padding: 15px;
+}
+.tablerow td{
+	text-align:right;
+}
+.message {
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+width: 100%;
+}
+.input_control {
+	border: #CCC 1px solid;
+    padding: 7px 25px;
+}
+.btnSubmit {
+	padding: 8px 20px;
+    background: orange;
+    border: rgba(255, 166, 0, 0.185) 1px solid;
+    color: #FFF;
+}
+.welcome {
+	font-size: 18px;
+    background-image:url(image/healthy-groceries3.jpg) ;
+    text-align: center;
+    color: orange;
+}
+
+    #active a:link, #active a:visited, #active a:hover {
+    background : orange;
+    color : #fff;
+    }
+    #activenav a:link, #activenav a:visited, #activenav a:hover {
+        background : rgb(252, 195, 90);
+        color : #fff;
+        }
+        #menu {
+            width : 160px;
+            padding : 10px 0 0 0;
+            font-weight: bold;
+            font-size: 11px;
+            vertical-align: text-top;
+            }
+            #menu ul {
+            margin : 0;
+            padding : 0;
+            list-style-type : none;
+            }
+            #menu li {
+            margin : 0 0 0.1em 0;
+            }
+            #menu a {
+            display : block;
+            width : 150px;
+            height: 25px;
+            padding : 0.1em 0.8em;
+            text-decoration : none;
+            color : #fff;
+            background : orange;
+            }
+            #menu a:hover {
+            background : black;
+            color : #fff;
+            }
+           
